@@ -30,6 +30,10 @@ Once the server starts, open your browser and navigate to http://localhost:3000.
 - The app uses the **Webcam API** to capture video input directly from your browser.
 - **TensorFlow.js** processes the video feed using a pre-trained face landmarks detection model.
 - Detected facial landmarks are drawn on the video feed in real-time, showing key points like eyes, nose, and mouth.
+
+### Images 🖼️
+<img src="public/Face_landmarks_Image.png" alt="Face Landmarks Example" width="350" height="350">
+
 ### Requirements 🛠️
 - Node.js (for running the project locally).
 - A browser that supports TensorFlow.js and webcam access (such as Chrome or Firefox).
