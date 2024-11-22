@@ -32,7 +32,14 @@ Once the server starts, open your browser and navigate to http://localhost:3000.
 - Detected facial landmarks are drawn on the video feed in real-time, showing key points like eyes, nose, and mouth.
 
 ### Images 🖼️
+
+<h1>Face Landmarks</h1>
 <img src="public/Face_landmarks_Image.png" alt="Face Landmarks Example" width="350" height="350">
+
+<h1>Face Map</h1>
+<img src="public/face_map.jpg" alt="Face Landmarks Example" width="350" height="350">
+Note :-If you close in to the Face Map you will see many points on the map which indicate how our model maps different part of our face and one thing to note is that the mapping always starts from the nose</p>
+
 
 ### Requirements 🛠️
 - Node.js (for running the project locally).
