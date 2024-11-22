@@ -49,6 +49,11 @@ Note :-If you close in to the Face Map you will see many points on the map which
 - JavaScript: For app logic and TensorFlow integration.
 - HTML5 & CSS: For the front-end interface.
 - Web APIs: For accessing the webcam and rendering live video.
+
+### Live Link 🔴
+[![Netlify Status](https://api.netlify.com/api/v1/badges/51e67c23-5eea-4451-bab1-469b92cf2205/deploy-status)](https://app.netlify.com/sites/face-landmarksdetections/deploys)
+
+
 ### Contributing 🤝
 
 Contributions are welcome! To contribute:
